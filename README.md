@@ -32,7 +32,7 @@ Hệ thống Quản lý Bán Quần Áo được xây dựng trên nền tảng 
 
 ## Link
 
--   **Link repo**:https://github.com/trongduongtkhd/quanliquanao.git
+-   **Link repo**https://github.com/trongduongtkhd/webbandogiadung)
 
 ## Hướng dẫn cài đặt
 
